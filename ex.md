@@ -1,8 +1,5 @@
-<!-- Heading -->
-<!-- blackquotes -->
-# About  Remote Jobs
-<!-- bold -->
-<!-- italic --> 
+# About  Remote Jobs 
+
  **There are lot of uses in  remote jobs.**
 
  *There are two sides of a coin like that in this there are two sides.*
@@ -12,7 +9,7 @@
 * *The Bad part is that you may happen to work more.There is not much in social contact.*
 
 ## Full-Stack(React/Python)Developer
-<!-- links -->
+
 [Full-Stack(React/Python)Developer](https://remote.com/jobs/full-stack-react-python-developer-d00475fe-5e45-4bb1-a042-3d8f512c9202)
 
 *Python is considered easy to learn and run almost anywhere. It is used for no of applications,including education,data analysis and web development.Some of the big companies in the world in python extensively,including instagram and google.*
@@ -20,10 +17,10 @@
 
 *Python is easy to pick up.Ease is to use easy readability and more than just convienince.*
 
-<!-- links -->
+
 [The Internet of Things or IOT](https://www.educba.com/iot-applications/) *has opened up huge oppurtunities,and Python can play in you utilizing the oppurtunities.The language become a popular choice for IOT , with new plat form like* [Raspberry pi](https://www.educba.com/raspberry-pi-with-a-mix-of-python/) *being based on it.*
 
-<!-- images -->
+
 ![](All-You-Ever-Wanted-to-Know-about-Low-Code-App-Developer-Magazine_zwo2wpz6.jpg)
 
 
@@ -55,3 +52,9 @@ Experince in these program languages will you to become a good Software Develope
 
 ![](web-development-concept-webdesign-interface-elements-creative-process-tools-design-designer-website-60499982.jpg)
 
+
+
+
+ > * **Done By ~~Just Jagruth~~**
+   
+ >  * **From The Department Of Information Technology**
