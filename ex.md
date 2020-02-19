@@ -24,7 +24,7 @@
 [The Internet of Things or IOT](https://www.educba.com/iot-applications/) *has opened up huge oppurtunities,and Python can play in you utilizing the oppurtunities.The language become a popular choice for IOT , with new plat form like* [Raspberry pi](https://www.educba.com/raspberry-pi-with-a-mix-of-python/) *being based on it.*
 
 <!-- images -->
-![p](https://www.bing.com/images/search?view=detailV2&id=A96BD1D9613D862304640A2B9930C1AE24B3067B&thid=OIP.J021I-woySaZns5uPchRhAHaGI&mediaurl=https%3A%2F%2Fappdevelopermagazine.com%2Fimages%2Fnews_images%2FAll-You-Ever-Wanted-to-Know-about-Low-Code-App-Developer-Magazine_zwo2wpz6.jpg&exph=522&expw=631&q=all+you+ever+wantedto+know+about+low+code+app+develper&selectedindex=0&ajaxhist=0&vt=0&eim=1)
+![p](All-You-Ever-Wanted-to-Know-about-Low-Code-App-Developer-Magazine_zwo2wpz6.jpg)
 
 
 ## Software Developer
