@@ -51,7 +51,7 @@ Experince in these program languages will you to become a good Software Develope
 *  **CSS**
 
 ![](web-development-concept-webdesign-interface-elements-creative-process-tools-design-designer-website-60499982.jpg)
-theme: jekyll-theme-architect
+theme: (jekyll-theme-architect)
 
 
 
